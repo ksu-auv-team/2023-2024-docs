@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"b6ea661b57ec77cc","x":-1240,"y":-240,"width":290,"height":115,"type":"text","text":"# Object Training Data Creation\n"},
+		{"id":"2ea722dd17173b35","x":-920,"y":-240,"width":280,"height":140,"type":"text","text":"# Object Validation Data Creation"},
+		{"id":"33093969678d7f49","x":-600,"y":-235,"width":284,"height":89,"type":"text","text":"# Model Training"},
+		{"id":"550c309f48dd6e19","x":-280,"y":-240,"width":284,"height":89,"type":"text","text":"# Object Tracking"},
+		{"id":"c167c3bb6d6c6d67","x":40,"y":-247,"width":324,"height":129,"type":"text","text":"# Object Distance Measurement"},
+		{"id":"fafc526e8810ac61","type":"text","text":"# This is a main canvas, where we can actually organize things. ","x":-1110,"y":-760,"width":320,"height":160},
+		{"id":"3dd2ef69620571ec","x":-583,"y":-520,"width":250,"height":60,"type":"text","text":"# Tasks"},
+		{"id":"2052317cb0437c17","x":-1040,"y":80,"width":400,"height":400,"type":"file","file":"KSU AUV/Training YOLOv8 for Object Detection.md"},
+		{"id":"e8f21f12c0d605a0","x":77,"y":0,"width":250,"height":110,"type":"text","text":"We will be using some kind of ZED camera, which is bifocal. "}
+	],
+	"edges":[
+		{"id":"d546814b65623f3a","fromNode":"3dd2ef69620571ec","fromSide":"bottom","toNode":"b6ea661b57ec77cc","toSide":"top"},
+		{"id":"66214575506eb9ed","fromNode":"3dd2ef69620571ec","fromSide":"bottom","toNode":"2ea722dd17173b35","toSide":"top"},
+		{"id":"4f404c0cc7500f09","fromNode":"3dd2ef69620571ec","fromSide":"bottom","toNode":"33093969678d7f49","toSide":"top"},
+		{"id":"bf051ac917d00a75","fromNode":"3dd2ef69620571ec","fromSide":"bottom","toNode":"550c309f48dd6e19","toSide":"top"},
+		{"id":"89d09631c0605630","fromNode":"3dd2ef69620571ec","fromSide":"bottom","toNode":"c167c3bb6d6c6d67","toSide":"top"},
+		{"id":"c25655ac932d3921","fromNode":"b6ea661b57ec77cc","fromSide":"bottom","toNode":"2052317cb0437c17","toSide":"top"},
+		{"id":"71e56fc86855e22a","fromNode":"2ea722dd17173b35","fromSide":"bottom","toNode":"2052317cb0437c17","toSide":"top"},
+		{"id":"8bb9f5bcae902ee5","fromNode":"33093969678d7f49","fromSide":"bottom","toNode":"2052317cb0437c17","toSide":"top"},
+		{"id":"f59a998fd45211dc","fromNode":"c167c3bb6d6c6d67","fromSide":"bottom","toNode":"e8f21f12c0d605a0","toSide":"top"}
+	]
+}

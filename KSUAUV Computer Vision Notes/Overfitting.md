@@ -1,0 +1,3 @@
+When a [[Neural Network]] model is overtrained on a training dataset, causing it to focus too greatly on useless details in the training set and thus become inaccurate in general use. This is generally mitigated by reducing the number of [[epoch]]s the model is trained.
+
+Overfitting is tricky, as when a model begins to overfit to it's data set, it's [[f1]] values will increase, making it seem the model is becoming more accurate.

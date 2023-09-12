@@ -1,0 +1,1 @@
+Used for transferring [[OpenCV]] images through [[TCP]].

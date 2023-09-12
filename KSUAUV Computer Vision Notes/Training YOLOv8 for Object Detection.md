@@ -1,0 +1,2 @@
+Just an article I found.
+https://wandb.ai/mukilan/wildlife-yolov8/reports/A-Gentle-Introduction-to-YOLOv8--Vmlldzo0MDU5NDA2#:~:text=YOLOv8%20models%20are%20pretrained%20on,Detection%20out%20of%20the%20box.

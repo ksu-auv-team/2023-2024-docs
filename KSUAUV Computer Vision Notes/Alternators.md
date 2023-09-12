@@ -1,0 +1,4 @@
+#definition  
+A power generator that generates [[Alternating Current]] power. It is a reversed [[AC Motor]], in that it generates alternating current power using mechanical force, instead of converting alternating current to mechanical force. As such, they resemble motors, but a mechanical force cranks the "rotor," pushing power into the "stator."
+
+Alternators work by [[induction]], by which a magnetic rotor creates electromotive force by passing over a "stator." Because each coil inside the stator is (usually, in a [[Three Phase Power]] system) connected to a different, one-of-three outputting wire, the result is three oscillating phases of alternating current power.
