@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e7c951704d1bc432",
+        "id": "d7af96fc79eedf99",
         "type": "tabs",
         "children": [
           {
-            "id": "01627c16d8fc5007",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "55fa95ae6ded170f",
+            "id": "bf981f066f2a5740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template.md",
+                "file": "Install-local-environments/Windows Setup Environments.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template.md",
+                "file": "Install-local-environments/Windows Setup Environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template.md",
+                "file": "Install-local-environments/Windows Setup Environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template.md"
+                "file": "Install-local-environments/Windows Setup Environments.md"
               }
             }
           }
@@ -155,11 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55fa95ae6ded170f",
+  "active": "bf981f066f2a5740",
   "lastOpenFiles": [
-    "Flowchart.canvas",
-    "Template.md",
+    "Install-local-environments/MacOS Setup Environments.md",
+    "Install-local-environments/Windows Setup Environments.md",
+    "Movement-Packge/PID Controller.md",
+    "Install-local-environments",
     "Movement-Packge/Controller Class.md",
+    "Old-Code-Doc/Interact_bouy.py.md",
+    "Old-Code-Doc/gbl.py.md",
+    "Old-Code-Doc/Controllers.py.md",
+    "Old-Code-Doc/Control.py.md",
+    "Old-Code-Doc/BaseStateMachine.py.md",
+    "Template.md",
+    "Old-Code-Doc",
+    "Flowchart.canvas",
     "Main.md",
     "Movement-Packge"
   ]
